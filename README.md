@@ -17,4 +17,3 @@
 - 👁️ SASS, Tailwind, DaisyUI, CSS
 - 💽 MySQL, SQLServe, SQLlite
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vargasjavier&show_icons=true&locale=en&layout=compact" alt="vargasjavier" /></p>
